@@ -64,3 +64,9 @@
     color: #146C80;
   }
 }
+
+@media screen and (max-width : 550px) {
+  .neon-orange, .neon-blue {
+    font-size: 40px;
+  }
+}
